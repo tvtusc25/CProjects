@@ -1,0 +1,12 @@
+int main() {
+
+	int a = 6;
+	int b = 5.0;
+	//single line
+	if( a < b ) {
+		a = a + b;
+	}
+}
+/* comment
+Comment
+Comment */
